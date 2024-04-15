@@ -1,5 +1,8 @@
 ﻿using AutoMapper;
 using Microsoft.EntityFrameworkCore;
+using System.Security.AccessControl;
+using System.Security.Cryptography;
+using System.Security.Cryptography.Xml;
 using VentaXYZ.DTO;
 using VentaXYZ.Modelo;
 using VentaXYZ.Repositorio.Contratos;
@@ -11,14 +14,16 @@ namespace VentaXYZ.Servicio.Contrato
     {
         private readonly IGenericos<Usuario> _modeloRepositorio;
         private readonly IMapper _mapper;
+        private readonly IUsuarioRepositorio _modeloUsuario;
 
-        public UsuarioServicio(IGenericos<Usuario> modeloRepositorio, IMapper mapper)
+        public UsuarioServicio(IGenericos<Usuario> modeloRepositorio, IMapper mapper, IUsuarioRepositorio modeloUsuario)
         {
             _modeloRepositorio = modeloRepositorio;
+            _modeloUsuario = modeloUsuario;
             _mapper = mapper;
         }
 
-        public async Task<SesionDTO> Autorizar(LoginDTO modelo)
+        public async Task<PermisoDTO> Autorizar(LoginDTO modelo)
         {
             try
             {
@@ -27,7 +32,7 @@ namespace VentaXYZ.Servicio.Contrato
 
                 if (fromDBModelo != null)
                 {
-                    return _mapper.Map<SesionDTO>(fromDBModelo);
+                    return _mapper.Map<PermisoDTO>(fromDBModelo);
                 }
                 else
                     throw new TaskCanceledException("No se encontraron coincidencias");
@@ -40,12 +45,26 @@ namespace VentaXYZ.Servicio.Contrato
             }
         }
 
-        public bool AutorizarToken(LoginDTO modelo)
+        public async Task<List<PermisoDTO>> verificarPermiso(int? Rol, string Controlador, int opt, string esta)
+        {
+            List<PermisoDTO> rspa = new List<PermisoDTO>();
+            try
+            {
+                rspa = await _modeloUsuario.verificarPermiso(Rol, Controlador, opt, esta);
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+            return rspa;
+        }
+
+        public async Task<bool> AutorizarToken(LoginDTO modelo)
         {
             try
             {
                 var consulta = _modeloRepositorio.Consultar(q => q.CodUsuario == modelo.CodUsuario && q.Clave == modelo.Clave);
-                var fromDBModelo =  consulta.FirstOrDefaultAsync();
+                var fromDBModelo = await consulta.FirstOrDefaultAsync();
 
                 if (fromDBModelo != null)
                 {
@@ -154,7 +173,6 @@ namespace VentaXYZ.Servicio.Contrato
             }
         }
 
-
         public async Task<UsuarioDTO> buscar(string id)
         {
             try
@@ -175,14 +193,6 @@ namespace VentaXYZ.Servicio.Contrato
                 throw ex;
             }
         }
-
-        
-
-       
-
-        
-
-
 
     }
 }

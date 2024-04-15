@@ -8,8 +8,9 @@ namespace VentaXYZ.Utilidades
     {
         public AutoMapperProfile() 
         {
+            //Mapas para homologacion de modelos y DTO
             CreateMap<Usuario,UsuarioDTO>();
-            CreateMap<Usuario, SesionDTO>();
+            CreateMap<Usuario, PermisoDTO>();
             CreateMap<UsuarioDTO, Usuario>();
             CreateMap<Pedido, PedidoDTO>();
             CreateMap<PedidoDTO, Pedido>();

@@ -13,6 +13,8 @@ public partial class OpcionRol
 
     public int? Tipo { get; set; }
 
+    public string? optEstado { get; set; }
+
     public bool? MarcaBorrado { get; set; }
 
     public DateTime? FechaRegistro { get; set; }

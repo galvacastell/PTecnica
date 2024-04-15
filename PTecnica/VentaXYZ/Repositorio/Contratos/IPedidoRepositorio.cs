@@ -5,7 +5,7 @@ namespace VentaXYZ.Repositorio.Contratos
 {
     public interface IPedidoRepositorio : IGenericos<Pedido>
     {
-        Task<Pedido> Registrar(Pedido modelo);
+        Task<Pedido> Registrar(Pedido modelo); //Registrar Pedido
 
     }
 }

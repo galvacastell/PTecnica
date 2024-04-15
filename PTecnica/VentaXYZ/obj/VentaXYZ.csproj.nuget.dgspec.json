@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\delfosti\\VentaXYZ\\VentaXYZ\\VentaXYZ.csproj": {}
+    "D:\\delfosti\\VentaXYZ\\PTecnica\\VentaXYZ\\VentaXYZ.csproj": {}
   },
   "projects": {
-    "D:\\delfosti\\VentaXYZ\\VentaXYZ\\VentaXYZ.csproj": {
+    "D:\\delfosti\\VentaXYZ\\PTecnica\\VentaXYZ\\VentaXYZ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\delfosti\\VentaXYZ\\VentaXYZ\\VentaXYZ.csproj",
+        "projectUniqueName": "D:\\delfosti\\VentaXYZ\\PTecnica\\VentaXYZ\\VentaXYZ.csproj",
         "projectName": "VentaXYZ",
-        "projectPath": "D:\\delfosti\\VentaXYZ\\VentaXYZ\\VentaXYZ.csproj",
+        "projectPath": "D:\\delfosti\\VentaXYZ\\PTecnica\\VentaXYZ\\VentaXYZ.csproj",
         "packagesPath": "C:\\Users\\windows10\\.nuget\\packages\\",
-        "outputPath": "D:\\delfosti\\VentaXYZ\\VentaXYZ\\obj\\",
+        "outputPath": "D:\\delfosti\\VentaXYZ\\PTecnica\\VentaXYZ\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\windows10\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -78,7 +78,7 @@ namespace VentaXYZ.Controllers
         [HttpPost("Autorizacion")]
         public async Task<IActionResult> Autorizacion([FromBody] LoginDTO modelo)
         {
-            var response = new ResponseDTO<SesionDTO>();
+            var response = new ResponseDTO<PermisoDTO>();
             try
             {
                 response.status = true;

@@ -26,6 +26,7 @@ builder.Services.AddDbContext<DbventaXyzContext>(xyz =>
 //Inyeccion dependencia
 builder.Services.AddTransient(typeof(IGenericos<>),typeof(Generico<>));
 builder.Services.AddScoped<IPedidoRepositorio, PedidoRepositorio>();
+builder.Services.AddScoped<IUsuarioRepositorio, UsuarioRepositorio>();
 
 builder.Services.AddAutoMapper(typeof(AutoMapperProfile));
 

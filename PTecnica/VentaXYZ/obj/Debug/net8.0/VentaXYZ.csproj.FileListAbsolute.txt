@@ -138,3 +138,283 @@ D:\delfosti\VentaXYZ\VentaXYZ\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Wi
 D:\delfosti\VentaXYZ\VentaXYZ\bin\Debug\net8.0\AutoMapper.dll
 D:\delfosti\VentaXYZ\VentaXYZ\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\delfosti\VentaXYZ\VentaXYZ\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\appsettings.Development.json
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\appsettings.json
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\VentaXYZ.exe
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\VentaXYZ.deps.json
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\VentaXYZ.runtimeconfig.json
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\VentaXYZ.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\VentaXYZ.pdb
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\AutoMapper.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\Azure.Core.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\Azure.Identity.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\Humanizer.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\System.CodeDom.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\System.Memory.Data.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\obj\Debug\net8.0\VentaXYZ.csproj.AssemblyReference.cache
+D:\delfosti\VentaXYZ - BK\VentaXYZ\obj\Debug\net8.0\VentaXYZ.GeneratedMSBuildEditorConfig.editorconfig
+D:\delfosti\VentaXYZ - BK\VentaXYZ\obj\Debug\net8.0\VentaXYZ.AssemblyInfoInputs.cache
+D:\delfosti\VentaXYZ - BK\VentaXYZ\obj\Debug\net8.0\VentaXYZ.AssemblyInfo.cs
+D:\delfosti\VentaXYZ - BK\VentaXYZ\obj\Debug\net8.0\VentaXYZ.csproj.CoreCompileInputs.cache
+D:\delfosti\VentaXYZ - BK\VentaXYZ\obj\Debug\net8.0\VentaXYZ.MvcApplicationPartsAssemblyInfo.cs
+D:\delfosti\VentaXYZ - BK\VentaXYZ\obj\Debug\net8.0\VentaXYZ.MvcApplicationPartsAssemblyInfo.cache
+D:\delfosti\VentaXYZ - BK\VentaXYZ\obj\Debug\net8.0\staticwebassets.build.json
+D:\delfosti\VentaXYZ - BK\VentaXYZ\obj\Debug\net8.0\staticwebassets.development.json
+D:\delfosti\VentaXYZ - BK\VentaXYZ\obj\Debug\net8.0\staticwebassets\msbuild.VentaXYZ.Microsoft.AspNetCore.StaticWebAssets.props
+D:\delfosti\VentaXYZ - BK\VentaXYZ\obj\Debug\net8.0\staticwebassets\msbuild.build.VentaXYZ.props
+D:\delfosti\VentaXYZ - BK\VentaXYZ\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.VentaXYZ.props
+D:\delfosti\VentaXYZ - BK\VentaXYZ\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.VentaXYZ.props
+D:\delfosti\VentaXYZ - BK\VentaXYZ\obj\Debug\net8.0\staticwebassets.pack.json
+D:\delfosti\VentaXYZ - BK\VentaXYZ\obj\Debug\net8.0\scopedcss\bundle\VentaXYZ.styles.css
+D:\delfosti\VentaXYZ - BK\VentaXYZ\obj\Debug\net8.0\VentaXYZ.csproj.Up2Date
+D:\delfosti\VentaXYZ - BK\VentaXYZ\obj\Debug\net8.0\VentaXYZ.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\obj\Debug\net8.0\refint\VentaXYZ.dll
+D:\delfosti\VentaXYZ - BK\VentaXYZ\obj\Debug\net8.0\VentaXYZ.pdb
+D:\delfosti\VentaXYZ - BK\VentaXYZ\obj\Debug\net8.0\VentaXYZ.genruntimeconfig.cache
+D:\delfosti\VentaXYZ - BK\VentaXYZ\obj\Debug\net8.0\ref\VentaXYZ.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\appsettings.Development.json
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\appsettings.json
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\VentaXYZ.exe
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\VentaXYZ.deps.json
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\VentaXYZ.runtimeconfig.json
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\VentaXYZ.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\VentaXYZ.pdb
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\AutoMapper.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\Azure.Core.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\Azure.Identity.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\Humanizer.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\System.CodeDom.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\System.Memory.Data.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\obj\Debug\net8.0\VentaXYZ.csproj.AssemblyReference.cache
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\obj\Debug\net8.0\VentaXYZ.GeneratedMSBuildEditorConfig.editorconfig
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\obj\Debug\net8.0\VentaXYZ.AssemblyInfoInputs.cache
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\obj\Debug\net8.0\VentaXYZ.AssemblyInfo.cs
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\obj\Debug\net8.0\VentaXYZ.csproj.CoreCompileInputs.cache
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\obj\Debug\net8.0\VentaXYZ.MvcApplicationPartsAssemblyInfo.cs
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\obj\Debug\net8.0\VentaXYZ.MvcApplicationPartsAssemblyInfo.cache
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\obj\Debug\net8.0\staticwebassets.build.json
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\obj\Debug\net8.0\staticwebassets.development.json
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\obj\Debug\net8.0\staticwebassets\msbuild.VentaXYZ.Microsoft.AspNetCore.StaticWebAssets.props
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\obj\Debug\net8.0\staticwebassets\msbuild.build.VentaXYZ.props
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.VentaXYZ.props
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.VentaXYZ.props
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\obj\Debug\net8.0\staticwebassets.pack.json
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\obj\Debug\net8.0\scopedcss\bundle\VentaXYZ.styles.css
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\obj\Debug\net8.0\VentaXYZ.csproj.Up2Date
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\obj\Debug\net8.0\VentaXYZ.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\obj\Debug\net8.0\refint\VentaXYZ.dll
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\obj\Debug\net8.0\VentaXYZ.pdb
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\obj\Debug\net8.0\VentaXYZ.genruntimeconfig.cache
+D:\delfosti\VentaXYZ - BK - copia\VentaXYZ\obj\Debug\net8.0\ref\VentaXYZ.dll

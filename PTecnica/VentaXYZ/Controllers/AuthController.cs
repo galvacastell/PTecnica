@@ -13,7 +13,7 @@ namespace VentaXYZ.Controllers
     [Route("[controller]")]
     public class AuthController : Controller
     {
-        private readonly string _secretKey;
+        private readonly string _secretKey;//clave secreta 
         private readonly IUsuarioServicio _usuarioServicio;
 
         public AuthController( IUsuarioServicio usuarioServicio, IConfiguration config)
@@ -26,7 +26,8 @@ namespace VentaXYZ.Controllers
         [Route("token")]
         public async Task<IActionResult> Token(LoginDTO credentials)
         {
-            if (! _usuarioServicio.AutorizarToken(credentials))
+            //Validación de usuario:
+            if (! await _usuarioServicio.AutorizarToken(credentials))
             {
                 return Unauthorized();
             }
@@ -39,7 +40,7 @@ namespace VentaXYZ.Controllers
                  expires: DateTime.Now.AddMinutes(15),
                  signingCredentials: new SigningCredentials(securityKey, SecurityAlgorithms.HmacSha256)
                  );
-             var token = new JwtSecurityTokenHandler().WriteToken(jwt);
+             var token = new JwtSecurityTokenHandler().WriteToken(jwt); //Creacion de token
             
             return Ok(token);
         }

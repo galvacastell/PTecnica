@@ -107,6 +107,9 @@ public partial class DbventaXyzContext : DbContext
             entity.Property(e => e.CodOpcionRol).HasColumnName("codOpcionRol");
             entity.Property(e => e.CodOpcion).HasColumnName("codOpcion");
             entity.Property(e => e.CodRol).HasColumnName("codRol");
+
+            entity.Property(e => e.optEstado).HasMaxLength(20).HasColumnName("optEstado");
+
             entity.Property(e => e.FechaRegistro)
                 .HasDefaultValueSql("(getdate())")
                 .HasColumnType("datetime")
